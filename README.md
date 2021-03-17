@@ -22,7 +22,7 @@ source env-name/bin/activate
 ```
 ### Clone this repo
 ```
-git clone 
+git clone https://github.com/b4isty/address_to_lat_lang_api
 ```
 
 ### Install dependencies
